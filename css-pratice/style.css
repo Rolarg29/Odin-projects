@@ -1,0 +1,46 @@
+div {
+background-color: red;
+color: white;
+font-size: 32px;
+align-content: center;
+font-weight: bold;
+}
+
+.odd {
+    background-color: #ff3456;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.no2 {
+    color:#0000ff;
+    font-size: 36px;
+}
+
+.no3 {
+    font-size: 24px;
+}
+
+.no4 {
+    background-color: #66ff00;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#number4 {
+    color: #6f00ff;
+}
+
+.yes {
+    background-color: black;
+    color: white;
+}
+
+.no {
+    background-color: #ffff00;
+    color: black;
+}
+
+.buttons {
+    font-size: 28px;
+    font-family: helvetica, sans-serif, 'Times New Roman';
+}

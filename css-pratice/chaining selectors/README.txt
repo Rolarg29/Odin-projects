@@ -1,0 +1,1 @@
+The objective of this excersise is to chain css selectors
