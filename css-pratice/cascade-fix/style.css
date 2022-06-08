@@ -1,0 +1,39 @@
+body,
+button{
+    font-family: system-ui;
+}
+.para,
+.small-para {
+  color: hsl(0, 100%, 50%);
+}
+
+.para.small-para {
+  font-size: 22px;
+}
+
+.para {
+  font-size: 40px;
+}
+
+#confirm-button {
+  background: green;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+} 
+
+#cancel-button {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 30px;
+}
+
+.text.child {
+  color: red;
+  font-size: 22px;
+}
+
+div.text {
+  color: green;
+  font-size: 40px;
+}
